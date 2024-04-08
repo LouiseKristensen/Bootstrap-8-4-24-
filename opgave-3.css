@@ -1,0 +1,33 @@
+.btn-primary{
+    background-color: salmon;
+    border: 2px solid rgb(249, 82, 63);
+}
+
+footer{
+    background-color: rgb(192, 213, 234);
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.icons{
+    gap: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    margin: 30px 10px;
+}
+
+.row{
+    display:flex;
+    justify-content: space-between;
+}
+
+.bg-body-tertiary{
+    background-color: rgb(192, 213, 234) !important;
+}
